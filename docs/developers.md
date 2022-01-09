@@ -39,7 +39,7 @@ flatpak remove io.github.mightycreak.Diffuse
 
 ### Build, test and install using Meson
 
-Diffuse build system is meson.
+Diffuse build system is meson, please follow their installation instructions [here](https://mesonbuild.com/Quick-guide.html).
 
 To install diffuse locally:
 
